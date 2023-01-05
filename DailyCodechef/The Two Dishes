@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int T,N,S,d;
+	cin>>T;
+	while(T--)
+	{
+	    cin>>N>>S;
+	    if(N > S)
+	    {
+	        d = S;
+	    }
+	    else if(N == S)
+	    {
+	        d = N;
+	    }
+	    else if(N < S)
+	    {
+	        d = N - (S-N);
+	    }
+	    cout<<d<<"\n";
+	}
+	return 0;
+}
