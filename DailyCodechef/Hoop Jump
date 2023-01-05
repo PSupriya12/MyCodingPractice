@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int T,N,h;
+	cin>>T;
+	while(T--)
+	{
+	    cin>>N;
+	    h=(N+1)/2;
+	    cout<<h<<"\n";
+	}
+	return 0;
+}
