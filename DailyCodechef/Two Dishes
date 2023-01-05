@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int T,N,A,B,C,cnt;
+	cin>>T;
+	while(T--)
+	{
+	    cin>>N>>A>>B>>C;
+	    if(B>=(A+C))
+	    {
+	        cnt = A + C ;
+	    }
+	    else if(B<=(A+C))
+	    {
+	        cnt = B;
+	    }
+	    if(cnt>=N)
+	        cout<<"Yes\n";
+	    else
+	        cout<<"No\n";
+	}
+	return 0;
+}
