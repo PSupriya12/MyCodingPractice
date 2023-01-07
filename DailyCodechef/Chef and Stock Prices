@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int t , s, a, b, c, p;
+	cin>>t;
+	while(t--)
+	{
+	    cin>>s>>a>>b>>c;
+	    p = (s*(100+c))/100;
+	    if(p>=a && p<=b)
+	        cout<<"Yes\n";
+	    else
+	        cout<<"No\n";
+	}
+	return 0;
+}
