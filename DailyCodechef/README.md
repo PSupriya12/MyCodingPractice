@@ -8,3 +8,4 @@
 [Chef and Stock Prices](https://www.codechef.com/LP1TO201/problems/CSTOCK)<br/>
 [The Last Levels](https://www.codechef.com/problems/LASTLEVELS)<br/>
 [Finding Square Roots](https://www.codechef.com/problems/FSQRT)<br/>
+[Lucky Four](https://www.codechef.com/LP1TO205/problems/LUCKFOUR)<br/>
