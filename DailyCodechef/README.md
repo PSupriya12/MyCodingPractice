@@ -9,3 +9,4 @@
 [The Last Levels](https://www.codechef.com/problems/LASTLEVELS)<br/>
 [Finding Square Roots](https://www.codechef.com/problems/FSQRT)<br/>
 [Lucky Four](https://www.codechef.com/LP1TO205/problems/LUCKFOUR)<br/>
+[Determine the Winner](https://www.codechef.com/problems/WINNERR)<br/>
