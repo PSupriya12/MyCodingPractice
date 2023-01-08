@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int t,s,x,y,z,n;
+	cin>>t;
+	while(t--)
+	{
+	    cin>>s>>x>>y>>z;
+	    
+	    if((s-(x+y))>=z)
+	        n = 0 ;
+	        
+	    else 
+	    {
+	        if(((s-x)>=z) || ((s-y)>=z))
+	            n = 1 ;
+	        else
+	            n = 2 ;
+	    }
+	    cout<<n<<"\n";
+	}
+	return 0;
+}
