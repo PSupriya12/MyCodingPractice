@@ -14,3 +14,4 @@
 [Valentine is Coming](https://www.codechef.com/problems/VALENTINE)<br/>
 [Chef and his Apps](https://www.codechef.com/problems/CHEFAPPS)<br/>
 [Minimum Number of Coins](https://www.codechef.com/problems/MINCOINS)<br/>
+[Cup Finals](https://www.codechef.com/problems/CRICUP)<br/>
