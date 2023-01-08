@@ -15,3 +15,4 @@
 [Chef and his Apps](https://www.codechef.com/problems/CHEFAPPS)<br/>
 [Minimum Number of Coins](https://www.codechef.com/problems/MINCOINS)<br/>
 [Cup Finals](https://www.codechef.com/problems/CRICUP)<br/>
+[Self Defence Training](https://www.codechef.com/problems/SELFDEF)<br/>
