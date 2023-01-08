@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int T,N,K,M,min;
+	cin>>T;
+    while(T--)
+    {
+        cin>>N>>K>>M;
+        if(N%(K*M)==0)
+            min = N/(K*M);
+            
+        else 
+            min = (N/(K*M))+1;
+        cout<<min<<endl;
+    }
+	return 0;
+}
