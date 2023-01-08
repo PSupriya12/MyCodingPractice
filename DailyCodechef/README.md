@@ -12,3 +12,4 @@
 [Determine the Winner](https://www.codechef.com/problems/WINNERR)<br/>
 [Fill Candies](https://www.codechef.com/problems/FILLCANDIES)<br/>
 [Valentine is Coming](https://www.codechef.com/problems/VALENTINE)<br/>
+[Chef and his Apps](https://www.codechef.com/problems/CHEFAPPS)<br/>
