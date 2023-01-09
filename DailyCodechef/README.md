@@ -19,3 +19,4 @@
 [Speed Limit Test](https://www.codechef.com/problems/SPEEDTEST)<br/>
 [Important Pages on CodeChef](https://www.codechef.com/problems/CHEFPAGES)<br/>
 [Decrement OR Increment](https://www.codechef.com/problems/DECINC)<br/>
+[Pass or Fail](https://www.codechef.com/problems/PASSORFAIL)<br/>
