@@ -17,3 +17,4 @@
 [Cup Finals](https://www.codechef.com/problems/CRICUP)<br/>
 [Self Defence Training](https://www.codechef.com/problems/SELFDEF)<br/>
 [Speed Limit Test](https://www.codechef.com/problems/SPEEDTEST)<br/>
+[Important Pages on CodeChef](https://www.codechef.com/problems/CHEFPAGES)<br/>
