@@ -7,3 +7,4 @@
 [Power of Three](https://leetcode.com/problems/power-of-three/description/)<br/>
 [Power of Four](https://leetcode.com/problems/power-of-four/description/)<br/>
 [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)<br/>
+[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/)<br/>
