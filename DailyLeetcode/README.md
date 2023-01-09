@@ -6,3 +6,4 @@
 [Power of Two](https://leetcode.com/problems/power-of-two/submissions/874171026/)<br/>
 [Power of Three](https://leetcode.com/problems/power-of-three/description/)<br/>
 [Power of Four](https://leetcode.com/problems/power-of-four/description/)<br/>
+[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)<br/>
