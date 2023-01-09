@@ -21,3 +21,4 @@
 [Decrement OR Increment](https://www.codechef.com/problems/DECINC)<br/>
 [Pass or Fail](https://www.codechef.com/problems/PASSORFAIL)<br/>
 [Second Largest](https://www.codechef.com/problems/FLOW017)<br/>
+[Cyclic Quadrilateral](https://www.codechef.com/problems/CYCLICQD)<br/>
