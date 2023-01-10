@@ -1,0 +1,16 @@
+int isLengthEvenOrOdd(struct Node* head)
+{
+     //Code here
+     int cnt = 0 ;
+     Node*a = head ;
+     while(a != NULL)
+     {
+         cnt ++ ;
+         a = a->next ;
+     }
+    if(cnt%2 == 0)
+        return 0;
+        
+    else
+        return 1;
+}
