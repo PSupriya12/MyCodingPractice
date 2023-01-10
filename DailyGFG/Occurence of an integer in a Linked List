@@ -1,0 +1,18 @@
+class Solution
+{
+    public:
+    int count(struct node* head, int search_for)
+    {
+    //add your code here
+    
+        int cnt = 0 ;
+        node*a = head ;
+        while(a != NULL)
+        {
+            if(a->data == search_for)
+                cnt ++;
+            a = a->next;
+        }
+        return cnt ;
+    }
+};
