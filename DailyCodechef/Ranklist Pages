@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+    int t ;
+    cin>>t ;
+    while(t--)
+    {
+        int x ;
+        cin >> x ;
+        int ans ;
+        if(x % 25 == 0)
+            ans = x / 25 ;
+            
+        else
+            ans = (x / 25) + 1;
+            
+        cout<<ans<<"\n";
+    }
+	return 0;
+}
