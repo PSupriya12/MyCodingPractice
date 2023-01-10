@@ -25,3 +25,4 @@
 [Problems in your to-do list](https://www.codechef.com/problems/TODOLIST?tab=statement)<br/>
 [Reverse the Number](https://www.codechef.com/problems/FLOW007)<br/>
 [Ranklist Pages](https://www.codechef.com/problems/RANKLISTPAGE)<br/>
+[Mario and Bullet](https://www.codechef.com/problems/BULLET)<br/>
