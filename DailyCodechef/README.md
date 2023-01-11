@@ -28,3 +28,4 @@
 [Mario and Bullet](https://www.codechef.com/problems/BULLET)<br/>
 [Counting Pretty Numbers](https://www.codechef.com/problems/NUM239)<br/>
 [Red Light, Green Light](https://www.codechef.com/problems/DOLL)<br/>
+[Chef and Dolls](https://www.codechef.com/problems/MISSP)<br/>
