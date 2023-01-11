@@ -26,3 +26,4 @@
 [Reverse the Number](https://www.codechef.com/problems/FLOW007)<br/>
 [Ranklist Pages](https://www.codechef.com/problems/RANKLISTPAGE)<br/>
 [Mario and Bullet](https://www.codechef.com/problems/BULLET)<br/>
+[Counting Pretty Numbers](https://www.codechef.com/problems/NUM239)<br/>
