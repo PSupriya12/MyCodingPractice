@@ -40,3 +40,4 @@
 [Buy Lamps](https://www.codechef.com/problems/BUYLAMP)<br/>
 [Helping Chef](https://www.codechef.com/problems/FLOW008)<br/>
 [Mutated Minions](https://www.codechef.com/problems/CHN15A)<br/>
+[Get Lowest Free](https://www.codechef.com/problems/SALE)<br/>
