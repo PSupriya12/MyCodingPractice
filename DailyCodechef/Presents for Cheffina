@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	
+	int t;
+	cin >> t;
+	while(t--)
+	{
+	    int n;
+	    cin >> n;
+	    int c ;
+	    if(n < 5)
+	        c = n;
+	        
+	    else
+	        c = n - (n / 5);
+	    
+	    cout << c << "\n";
+	}
+	return 0;
+}
