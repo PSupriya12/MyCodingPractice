@@ -31,3 +31,4 @@
 [Chef and Dolls](https://www.codechef.com/problems/MISSP)<br/>
 [Chef and Races](https://www.codechef.com/problems/CHEFRACES)<br/>
 [Black cells in a Chessboard](https://www.codechef.com/problems/BLACKCEL)<br/>
+[Sum or Difference](https://www.codechef.com/problems/DIFFSUM)<br/>
