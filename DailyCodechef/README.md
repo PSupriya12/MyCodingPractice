@@ -30,3 +30,4 @@
 [Red Light, Green Light](https://www.codechef.com/problems/DOLL)<br/>
 [Chef and Dolls](https://www.codechef.com/problems/MISSP)<br/>
 [Chef and Races](https://www.codechef.com/problems/CHEFRACES)<br/>
+[Black cells in a Chessboard](https://www.codechef.com/problems/BLACKCEL)<br/>
