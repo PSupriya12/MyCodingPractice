@@ -43,3 +43,4 @@
 [Get Lowest Free](https://www.codechef.com/problems/SALE)<br/>
 [Economics Class](https://www.codechef.com/problems/ECOCLASS)<br/>
 [Lazy Chef](https://www.codechef.com/problems/LAZYCHF)<br/>
+[Primality Test](https://www.codechef.com/problems/PRB01)<br/>
