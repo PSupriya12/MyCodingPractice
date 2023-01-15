@@ -45,3 +45,4 @@
 [Lazy Chef](https://www.codechef.com/problems/LAZYCHF)<br/>
 [Primality Test](https://www.codechef.com/problems/PRB01)<br/>
 [The Cooler Dilemma 2](https://www.codechef.com/problems/WATERCOOLER2)<br/>
+[Guess the bottom face](https://www.codechef.com/problems/BOTTOM)<br/>
