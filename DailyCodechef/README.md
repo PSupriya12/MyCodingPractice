@@ -46,3 +46,4 @@
 [Primality Test](https://www.codechef.com/problems/PRB01)<br/>
 [The Cooler Dilemma 2](https://www.codechef.com/problems/WATERCOOLER2)<br/>
 [Guess the bottom face](https://www.codechef.com/problems/BOTTOM)<br/>
+[Hardest Problem Bet](https://www.codechef.com/problems/HARDBET)<br/>
