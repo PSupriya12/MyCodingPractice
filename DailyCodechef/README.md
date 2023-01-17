@@ -50,3 +50,4 @@
 [Overspeeding Fine](https://www.codechef.com/problems/FINE)<br/>
 [Complete the Credits](https://www.codechef.com/problems/CREDITS)<br/>
 [Cars and Bikes](https://www.codechef.com/problems/TYRES)<br/>
+[Complementry Strand in a DNA](https://www.codechef.com/problems/DNASTRAND)<br/>
