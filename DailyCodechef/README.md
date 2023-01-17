@@ -54,3 +54,4 @@
 [Turbo Sort](https://www.codechef.com/problems/TSORT)<br/>
 [Nearest Court](https://www.codechef.com/problems/NEARESTCOURT)<br/>
 [Chef and his Fruit Stand](https://www.codechef.com/problems/FRUITCHAAT)<br/>
+[The Preparations](https://www.codechef.com/problems/SUPCHEF)<br/>
