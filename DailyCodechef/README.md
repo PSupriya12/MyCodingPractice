@@ -56,3 +56,4 @@
 [Chef and his Fruit Stand](https://www.codechef.com/problems/FRUITCHAAT)<br/>
 [The Preparations](https://www.codechef.com/problems/SUPCHEF)<br/>
 [Equalizing Numbers](https://www.codechef.com/problems/EQLZING)<br/>
+[Genes](https://www.codechef.com/problems/GENE01)<br/>
