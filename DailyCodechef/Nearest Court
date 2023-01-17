@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	
+	int t;
+	cin >> t;
+	while(t--)
+	{
+	    int x, y;
+	    cin >> x >> y;
+	    int ans;
+	    if(x > y)
+	        ans = ((x - y) + 1) / 2;
+	        
+	    else if(y >= x)
+	        ans = ((y - x) + 1) / 2;
+	        
+	    cout << ans << endl;
+	}
+	return 0;
+}
