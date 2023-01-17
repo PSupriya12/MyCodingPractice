@@ -51,3 +51,4 @@
 [Complete the Credits](https://www.codechef.com/problems/CREDITS)<br/>
 [Cars and Bikes](https://www.codechef.com/problems/TYRES)<br/>
 [Complementry Strand in a DNA](https://www.codechef.com/problems/DNASTRAND)<br/>
+[Turbo Sort](https://www.codechef.com/problems/TSORT)<br/>
