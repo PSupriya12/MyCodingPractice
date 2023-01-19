@@ -9,3 +9,4 @@ Here I will add the coding problems I solved on GFG platform daily..😼
 [Max Min](https://practice.geeksforgeeks.org/problems/max-min/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)<br/>
 [Linked List Length Even or Odd?](https://practice.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1?page=2&category[]=Linked%20List&sortBy=submissions)<br/>
 [Reverse Digits](https://practice.geeksforgeeks.org/problems/reverse-digit0316/1?page=1&sortBy=submissions&searchQuery=Reverse)<br/>
+[Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1)<br/>
