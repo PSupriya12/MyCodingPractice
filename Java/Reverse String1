@@ -1,0 +1,15 @@
+class ReverseString1
+{
+	public static void main(String[] args)
+	{	
+		String str = "Walchand";
+		String rev = " ";
+		char [] ans = str.toCharArray();
+		int n = str.length();
+		for(int i=n-1; i>=0; i--)
+		{
+			rev = rev + ans[i];
+		}
+		System.out.print(rev);
+	}
+}
