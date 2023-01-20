@@ -9,3 +9,4 @@
 [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)<br/>
 [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/)<br/>
 [Missing Number](https://leetcode.com/problems/missing-number/)<br/>
+[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)<br/>
