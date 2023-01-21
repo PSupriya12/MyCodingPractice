@@ -61,3 +61,4 @@
 [Maximum Production](https://www.codechef.com/problems/EITA)<br/>
 [Good Weather](https://www.codechef.com/problems/GOODWEAT)<br/>
 [RCB & Playoffs](https://www.codechef.com/problems/RCBPLAY)<br/>
+[Which Mixture](https://www.codechef.com/problems/MIXTURE)<br/>
