@@ -71,3 +71,4 @@
 [Coldplay](https://www.codechef.com/problems/SLOOP)<br/>
 [Chef and Vacation Transportation](https://www.codechef.com/problems/CHEFTRANS)<br/>
 [Chefland Visa](https://www.codechef.com/problems/VISA)<br/>
+[Area or Perimeter](https://www.codechef.com/problems/AREAPERI)<br/>
