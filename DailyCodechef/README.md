@@ -72,3 +72,4 @@
 [Chef and Vacation Transportation](https://www.codechef.com/problems/CHEFTRANS)<br/>
 [Chefland Visa](https://www.codechef.com/problems/VISA)<br/>
 [Area or Perimeter](https://www.codechef.com/problems/AREAPERI)<br/>
+[Devendra and Water Sports](https://www.codechef.com/problems/DEVSPORTS)<br/>
