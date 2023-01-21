@@ -1,0 +1,29 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	
+	int t;
+	cin >> t;
+	while(t--)
+	{
+	    int x, y;
+	    cin >> x >> y;
+	    int cnt;
+	    if(x == y)
+	        cnt = 0;
+	        
+	    else if(y > x)
+	        cnt = y - x;
+	        
+	    else if(x > y && (x - y) % 2 ==0)
+	        cnt = (x - y) / 2;
+	        
+	    else 
+	        cnt = (x - y) / 2 + 2;
+	        
+	    cout << cnt << endl;
+	}
+	return 0;
+}
