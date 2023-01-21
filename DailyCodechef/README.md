@@ -68,3 +68,4 @@
 [Valid Pair](https://www.codechef.com/problems/SOCKS1)<br/>
 [Equal Integers](https://www.codechef.com/problems/INCREAR)<br/>
 [Summer Heat](https://www.codechef.com/problems/COCONUT)<br/>
+[Coldplay](https://www.codechef.com/problems/SLOOP)<br/>
