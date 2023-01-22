@@ -79,3 +79,4 @@
 [Odd Pairs](https://www.codechef.com/problems/ODDPAIRS)<br/>
 [Minimum Attendance Requirement](https://www.codechef.com/problems/ATTENDU)<br/>
 [Candy Love](https://www.codechef.com/problems/CNDLOVE)<br/>
+[Equal Card Game](https://www.codechef.com/problems/EQCARDGAME)<br/>
