@@ -77,3 +77,4 @@
 [Total Expenses](https://www.codechef.com/problems/FLOW009)<br/>
 [Airline Restrictions](https://www.codechef.com/problems/AIRLINE)<br/>
 [Odd Pairs](https://www.codechef.com/problems/ODDPAIRS)<br/>
+[Minimum Attendance Requirement](https://www.codechef.com/problems/ATTENDU)<br/>
