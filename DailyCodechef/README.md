@@ -83,3 +83,4 @@
 [Hungry Ashish](https://www.codechef.com/problems/PIZZA_BURGER)<br/>
 [Mask Policy](https://www.codechef.com/problems/MASKPOL)<br/>
 [Counting Problem](https://www.codechef.com/problems/COUNTP)<br/>
+[How much Scholarship](https://www.codechef.com/problems/ZCOSCH)<br/>
