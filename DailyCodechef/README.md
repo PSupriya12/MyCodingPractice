@@ -81,3 +81,4 @@
 [Candy Love](https://www.codechef.com/problems/CNDLOVE)<br/>
 [Equal Card Game](https://www.codechef.com/problems/EQCARDGAME)<br/>
 [Hungry Ashish](https://www.codechef.com/problems/PIZZA_BURGER)<br/>
+[Mask Policy](https://www.codechef.com/problems/MASKPOL)<br/>
