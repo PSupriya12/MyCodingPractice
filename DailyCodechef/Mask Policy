@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	
+	int t;
+	cin >> t;
+	while(t--)
+	{
+	    int n,a;
+	    cin >> n >> a;
+	    int cnt;
+	    if(a > (n-a))
+	        cnt = n-a;
+	        
+	    else
+	        cnt = a;
+	        
+	    cout << cnt << endl;
+	}
+	return 0;
+}
