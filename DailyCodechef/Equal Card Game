@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	
+	int t;
+	cin >> t;
+	while(t--)
+	{
+	    int k;
+	    cin >> k;
+	    if((52 % (k)) == 0)
+	        cout << "0\n";
+	        
+	    else
+	        cout << (52 % (k)) << endl;
+	}
+	return 0;
+}
