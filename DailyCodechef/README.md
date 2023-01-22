@@ -80,3 +80,4 @@
 [Minimum Attendance Requirement](https://www.codechef.com/problems/ATTENDU)<br/>
 [Candy Love](https://www.codechef.com/problems/CNDLOVE)<br/>
 [Equal Card Game](https://www.codechef.com/problems/EQCARDGAME)<br/>
+[Hungry Ashish](https://www.codechef.com/problems/PIZZA_BURGER)<br/>
