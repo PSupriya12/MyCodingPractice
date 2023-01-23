@@ -10,3 +10,4 @@
 [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/)<br/>
 [Missing Number](https://leetcode.com/problems/missing-number/)<br/>
 [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)<br/>
+[Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/)<br/>
