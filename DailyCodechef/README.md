@@ -85,3 +85,4 @@
 [Counting Problem](https://www.codechef.com/problems/COUNTP)<br/>
 [How much Scholarship](https://www.codechef.com/problems/ZCOSCH)<br/>
 [Elections in Chefland](https://www.codechef.com/problems/ELECTIONS)<br/>
+[Good Quality Bulbs](https://www.codechef.com/problems/BULBLIFE)<br>
