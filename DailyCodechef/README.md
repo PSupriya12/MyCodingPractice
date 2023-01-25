@@ -92,3 +92,4 @@
 [Group Assignment](https://www.codechef.com/problems/GROUPASSGN)<br/>
 [Relativity](https://www.codechef.com/problems/RELATIVE)<br/>
 [Drunk Alcoholic](https://www.codechef.com/problems/DRUNKALK)<br/>
+[Chef on Island](https://www.codechef.com/problems/CCISLAND<br/>
