@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	
+	int t;
+	cin >> t;
+	while(t--)
+	{
+	    int k;
+	    cin >> k;
+	    int cnt = 0;
+	    for(int i=1; i<=k; i++)
+	    {
+	        if(i % 2 == 0)
+	            cnt = cnt - 1;
+	            
+	        else
+	            cnt = cnt + 3;
+	    }
+	    cout << cnt << endl;
+	}
+	return 0;
+}
