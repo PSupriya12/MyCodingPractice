@@ -88,3 +88,4 @@
 [Good Quality Bulbs](https://www.codechef.com/problems/BULBLIFE)<br>
 [Which Division](https://www.codechef.com/problems/WHICHDIV)<br/>
 [Chef and Contest](https://www.codechef.com/problems/CHEFCONTEST)<br/>
+[Odds and Evens](https://www.codechef.com/problems/ODDSEVENS)<br/>
