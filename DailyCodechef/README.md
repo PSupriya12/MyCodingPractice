@@ -100,3 +100,4 @@
 [Chef and Snackdown](https://www.codechef.com/problems/SNCKYEAR)<br/>
 [Chef and the Hair Salon](https://www.codechef.com/problems/CHEFBARBER)<br/>
 [Peaceful Party](https://www.codechef.com/problems/MAYOR_PARTY)<br/>
+[Passing Marks](https://www.codechef.com/problems/PSGRADE)<br/>
