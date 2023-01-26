@@ -95,3 +95,4 @@
 [Chef on Island](https://www.codechef.com/problems/CCISLAND)<br/>
 [Richie Rich](https://www.codechef.com/problems/CHFRICH)<br/>
 [Chef and Profits](https://www.codechef.com/problems/CHFPROFIT)<br/>
+[Chef on Vacation](https://www.codechef.com/problems/CHEFVACATION)<br/>
