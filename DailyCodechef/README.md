@@ -98,3 +98,4 @@
 [Chef on Vacation](https://www.codechef.com/problems/CHEFVACATION)<br/>
 [Olympics Ranking](https://www.codechef.com/problems/OLYRANK)<br/>
 [Chef and Snackdown](https://www.codechef.com/problems/SNCKYEAR)<br/>
+[Chef and the Hair Salon](https://www.codechef.com/problems/CHEFBARBER)<br/>
