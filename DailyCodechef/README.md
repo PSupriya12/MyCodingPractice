@@ -97,3 +97,4 @@
 [Chef and Profits](https://www.codechef.com/problems/CHFPROFIT)<br/>
 [Chef on Vacation](https://www.codechef.com/problems/CHEFVACATION)<br/>
 [Olympics Ranking](https://www.codechef.com/problems/OLYRANK)<br/>
+[Chef and Snackdown](https://www.codechef.com/problems/SNCKYEAR)<br/>
