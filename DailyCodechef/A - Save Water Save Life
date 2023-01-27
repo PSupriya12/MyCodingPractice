@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	
+	int t;
+	cin >> t ;
+	while(t--)
+	{
+	    int h, x, y, c;
+	    cin >> h >> x >> y >> c ;
+	    if((((y / 2) + x) * h) <= c)
+	        cout << "YES\n" ;
+	        
+	    else
+	        cout << "NO\n" ;
+	}
+	return 0;
+}
