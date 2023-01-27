@@ -101,3 +101,4 @@
 [Chef and the Hair Salon](https://www.codechef.com/problems/CHEFBARBER)<br/>
 [Peaceful Party](https://www.codechef.com/problems/MAYOR_PARTY)<br/>
 [Passing Marks](https://www.codechef.com/problems/PSGRADE)<br/>
+[A - Save Water Save Life](https://www.codechef.com/problems/SAVWATER)<br/>
