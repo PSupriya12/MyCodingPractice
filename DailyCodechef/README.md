@@ -103,3 +103,4 @@
 [Passing Marks](https://www.codechef.com/problems/PSGRADE)<br/>
 [A - Save Water Save Life](https://www.codechef.com/problems/SAVWATER)<br/>
 [Solubility](https://www.codechef.com/problems/SOLBLTY)<br/>
+[Penalty Shots](https://www.codechef.com/problems/PENALTY?tab=statement)<br/>
