@@ -105,3 +105,4 @@
 [Solubility](https://www.codechef.com/problems/SOLBLTY)<br/>
 [Penalty Shots](https://www.codechef.com/problems/PENALTY?tab=statement)<br/>
 [Shoe Fit](https://www.codechef.com/problems/SHOEFIT)<br/>
+[Chef and Remissness](https://www.codechef.com/problems/REMISS)<br/>
