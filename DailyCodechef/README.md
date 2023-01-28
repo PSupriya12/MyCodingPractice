@@ -102,3 +102,4 @@
 [Peaceful Party](https://www.codechef.com/problems/MAYOR_PARTY)<br/>
 [Passing Marks](https://www.codechef.com/problems/PSGRADE)<br/>
 [A - Save Water Save Life](https://www.codechef.com/problems/SAVWATER)<br/>
+[Solubility](https://www.codechef.com/problems/SOLBLTY)<br/>
