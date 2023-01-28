@@ -107,3 +107,4 @@
 [Shoe Fit](https://www.codechef.com/problems/SHOEFIT)<br/>
 [Chef and Remissness](https://www.codechef.com/problems/REMISS)<br/>
 [Chef and Pairing Slippers](https://www.codechef.com/problems/CHEFSLP)<br/>
+[Chef and Price Control](https://www.codechef.com/problems/PRICECON)<br/>
