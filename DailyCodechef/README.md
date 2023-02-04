@@ -111,3 +111,4 @@
 [Count The Holidays](https://www.codechef.com/problems/SUNDAY)<br/>
 [Gold Mining](https://www.codechef.com/problems/CARRYGOLD)<br/>
 [400M Race](https://www.codechef.com/problems/RACE400M)<br/>
+[Back to Campus](https://www.codechef.com/problems/MINDAYSRET)<br/>
