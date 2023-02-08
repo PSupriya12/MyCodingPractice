@@ -114,3 +114,4 @@
 [Back to Campus](https://www.codechef.com/problems/MINDAYSRET)<br/>
 [Indivisible](https://www.codechef.com/problems/INDIVISIBLE)<br/>
 [ATM Machine](https://www.codechef.com/problems/ATM2?tab=statement)<br/>
+[Battery Health](https://www.codechef.com/COOK144D/problems/BTRYHLTH)<br/>
