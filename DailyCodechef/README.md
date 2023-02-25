@@ -116,3 +116,4 @@
 [ATM Machine](https://www.codechef.com/problems/ATM2?tab=statement)<br/>
 [Battery Health](https://www.codechef.com/COOK144D/problems/BTRYHLTH)<br/>
 [Netflix](https://www.codechef.com/COOK144D/problems/NETFLIX)<br/>
+[Good Turn](https://www.codechef.com/problems/GDTURN)<br/>
