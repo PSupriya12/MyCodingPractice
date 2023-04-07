@@ -117,3 +117,4 @@
 [Battery Health](https://www.codechef.com/COOK144D/problems/BTRYHLTH)<br/>
 [Netflix](https://www.codechef.com/COOK144D/problems/NETFLIX)<br/>
 [Good Turn](https://www.codechef.com/problems/GDTURN)<br/>
+[Budget of Technex](https://www.codechef.com/problems/BUDTECH)<br/>
