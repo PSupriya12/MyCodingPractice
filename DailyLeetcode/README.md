@@ -13,3 +13,4 @@
 [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/)<br/>
 [Number of steps to reduce a number to zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/submissions/930002873/)<br/>
 [Convert the temperature](https://leetcode.com/problems/convert-the-temperature/)<br/>
+[Count the digits that divide a number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/submissions/930011141/)<br/>
