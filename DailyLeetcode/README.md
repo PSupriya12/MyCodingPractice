@@ -11,3 +11,4 @@
 [Missing Number](https://leetcode.com/problems/missing-number/)<br/>
 [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)<br/>
 [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/)<br/>
+[Number of steps to reduce a number to zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/submissions/930002873/)<br/>
