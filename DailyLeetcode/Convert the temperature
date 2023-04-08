@@ -1,0 +1,13 @@
+class Solution {
+public:
+    vector<double> convertTemperature(double celsius) {
+        int arr[2];
+        double kelvin,farenheit;
+        kelvin = celsius + 273.15;
+        farenheit = celsius * 1.80 + 32.00;
+        vector<double> ans;
+        ans.push_back(kelvin);
+        ans.push_back(farenheit);
+        return ans;
+    }
+};
