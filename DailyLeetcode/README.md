@@ -14,3 +14,4 @@
 [Number of steps to reduce a number to zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/submissions/930002873/)<br/>
 [Convert the temperature](https://leetcode.com/problems/convert-the-temperature/)<br/>
 [Count the digits that divide a number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/submissions/930011141/)<br/>
+[Single Number](https://leetcode.com/problems/single-number/submissions/931081893/)<br/>
