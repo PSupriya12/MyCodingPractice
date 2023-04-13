@@ -17,3 +17,4 @@
 [Single Number](https://leetcode.com/problems/single-number/submissions/931081893/)<br/>
 [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)<br/>
 [Find Target Indices after sorting an array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)<br/>
+[Maximum count of positive and negative integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)<br/>
