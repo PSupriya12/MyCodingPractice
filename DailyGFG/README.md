@@ -11,3 +11,4 @@ Here I will add the coding problems I solved on GFG platform daily..😼
 [Reverse Digits](https://practice.geeksforgeeks.org/problems/reverse-digit0316/1?page=1&sortBy=submissions&searchQuery=Reverse)<br/>
 [Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1)<br/>
 [Party of Couples](https://practice.geeksforgeeks.org/problems/alone-in-couple5507/1?page=1&difficulty[]=-2&curated[]=1&sortBy=submissions)<br/>
+[Find minimum and maximum of array](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1?page=1&curated[]=8&sortBy=submissions)<br/>
