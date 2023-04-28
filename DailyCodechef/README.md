@@ -124,3 +124,4 @@
 [Chef Eren](https://www.codechef.com/problems/CHEFEREN)<br/>
 [Candy Division](https://www.codechef.com/problems/CANDIVIDE)<br/>
 [Four Tickets](https://www.codechef.com/problems/FOURTICKETS)<br/>
+[Buy Ten Packets](https://www.codechef.com/problems/TENPACKETS)<br/>
