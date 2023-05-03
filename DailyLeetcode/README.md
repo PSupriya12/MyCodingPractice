@@ -22,3 +22,4 @@
 [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/description/)<br/>
 [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/description/)<br/>
 [Sum Multiples](https://leetcode.com/problems/sum-multiples/)<br/>
+[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)<br/>
