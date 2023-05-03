@@ -1,0 +1,17 @@
+
+int pointToCoin(int n, int k, vector<int>x) {
+	// Write your code here.
+
+	int cnt = 0;
+	for(int i = 0; i < n; i++)
+	{
+		if(x[i] >= (2 * k))
+			cnt = cnt + 2;
+
+		else if(x[i] >= k)
+			cnt++;
+	}
+
+	return cnt;
+
+}
