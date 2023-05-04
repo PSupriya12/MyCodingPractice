@@ -126,3 +126,4 @@
 [Four Tickets](https://www.codechef.com/problems/FOURTICKETS)<br/>
 [Buy Ten Packets](https://www.codechef.com/problems/TENPACKETS)<br/>
 [Online or Offline](https://www.codechef.com/problems/FOODPLAN)<br/>
+[Masterchef Finals](https://www.codechef.com/problems/TOP10)<br/>
