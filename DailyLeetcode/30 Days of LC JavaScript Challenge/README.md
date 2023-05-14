@@ -7,3 +7,4 @@
 [Day 7-Function Composition](https://leetcode.com/problems/function-composition/?utm_campaign=PostD7&utm_medium=Post&utm_source=Post&gio_link_id=4PY7wZM9)<br/>
 [Day 8-Allow one function call](https://leetcode.com/problems/allow-one-function-call/?utm_campaign=PostD8&utm_medium=Post&utm_source=Post&gio_link_id=a9By01Oo)<br/>
 [Day 9-Memorize](https://leetcode.com/problems/memoize/?utm_campaign=PostD9&utm_medium=Post&utm_source=Post&gio_link_id=nRbADVd9)<br/>
+[Day 10-Curry](https://leetcode.com/problems/curry/?utm_campaign=PostD10&utm_medium=Post&utm_source=Post&gio_link_id=QRekxgjo)<br/>
